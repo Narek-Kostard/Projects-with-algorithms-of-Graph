@@ -1,3 +1,4 @@
+```python
 processed = []
 def find_lowest_cost_node(costs):
     lowest_cost = float('inf')
@@ -55,3 +56,4 @@ def path(n):
         print(n,end = '->')
 
 path('fin')
+```
